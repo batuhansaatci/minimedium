@@ -38,7 +38,8 @@ class StoryDetailAPIView(APIView):
     def put(self, request, pk):
         pass
 
-
+    def delete(self, request, pk):
+        pass
 
 
 
